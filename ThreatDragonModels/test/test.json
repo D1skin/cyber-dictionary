@@ -5,7 +5,11 @@
     "description": "random desc"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "fdsaf"
+      }
+    ],
     "diagrams": [
       {
         "title": "fsdafasdf",
