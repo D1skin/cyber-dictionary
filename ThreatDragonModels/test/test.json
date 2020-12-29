@@ -10,18 +10,7 @@
         "name": "fdsaf"
       }
     ],
-    "diagrams": [
-      {
-        "title": "fsdafasdf",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      },
-      {
-        "title": "fsdaf",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
-      }
-    ],
+    "diagrams": [],
     "reviewer": "test2"
   }
 }
