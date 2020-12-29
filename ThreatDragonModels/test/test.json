@@ -11,6 +11,11 @@
         "title": "fsdafasdf",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "fsdaf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ],
     "reviewer": "test2"
