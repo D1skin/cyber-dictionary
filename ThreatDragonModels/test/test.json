@@ -10,7 +10,13 @@
         "name": "fdsaf"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "ghghghg",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "test2"
   }
 }
